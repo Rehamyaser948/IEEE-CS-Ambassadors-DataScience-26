@@ -1,0 +1,14 @@
+Animal Shelter Report
+
+Animal Counts:
+Cat: 5
+Dog: 4
+Rabbit: 2
+
+Animals not yet adopted:
+Rocky
+Luna
+Coco
+Bella
+Snowy
+Emy

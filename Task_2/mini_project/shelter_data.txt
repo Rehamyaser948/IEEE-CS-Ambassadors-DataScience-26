@@ -1,0 +1,11 @@
+Simba,Cat,2,Yes
+Rocky,Dog,5,No
+Luna,Cat,1,No
+Max,Dog,3,Yes
+Coco,Rabbit,1,No
+Bella,Dog,4,No
+Tom,Cat,6,Yes
+Snowy,Rabbit,2,No
+Helga,Dog,7,Yes
+Tom,Cat,5,Yes
+Emy,Cat,1,No

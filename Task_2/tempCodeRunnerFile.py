@@ -1,0 +1,1 @@
+print(list1.set(list2))
