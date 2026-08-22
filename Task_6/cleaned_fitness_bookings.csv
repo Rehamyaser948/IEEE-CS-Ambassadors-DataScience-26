@@ -1,0 +1,141 @@
+Booking_ID,Member_Name,Class_Type,Instructor,Booking_Date,Class_Time,Duration_Minutes,Price,Payment_Method,Membership_Type,Attendance_Status,Studio_Location
+1088,Nourhan Sabek,Pilates,Nourhan Fathy,2024-03-23,06:30 AM,50.0,18.0,,VIP,No-show,Uptown
+1009, Laila Adel  ,Spin,Unknown,,9:15AM,45.0,19.0,,Premium,Attended,Uptown
+1059,khaled fouad,Spin,Mona Zaki,2024-05-31,11:00 AM,45.0,18.0,,Basic,Attended,Uptown
+1085, Karim Ali  ,Pilates,Karim Adel,2024-06-20,16:15,50.0,23.0,Debit Card,VIP,Cancelled,Uptown
+1095,wael saleh,CrossFit,Tarek Sabry,,14:45,60.0,25.0,Debit Card,VIP,Cancelled,Uptown
+1083,Ziad Rashad,Pilates,Nourhan Fathy,,02:45 PM,50.0,18.0,,VIP,Cancelled,Uptown
+1071, Omar Sabry  ,Zumba,Rana Gaber,,10:00,55.0,16.0,Debit Card,VIP,Cancelled,Westside
+1133,Mona Rashad,Yoga,Mona Zaki,2031-02-07,05:15 PM,60.0,14.0,,Basic,Cancelled,Uptown
+1072, Tarek Sabry  ,Zumba,Tarek Sabry,2024-04-23,3:15PM,55.0,14.0,Debit Card,VIP,Cancelled,Uptown
+1010,mona gaber,Pilates,Nourhan Fathy,,08:30 AM,50.0,18.0,Credit Card,,Attended,Westside
+1017,Tarek Kamal,Zumba,Tarek Sabry,2024-02-28,06:15 AM,55.0,15.0,Online,Basic,Attended,Uptown
+1005,Salma Younes,HIIT,Hassan Younes,2031-05-29,11:15,40.0,27.0,,Basic,Attended,Downtown
+1066,aya fathy,Zumba,Karim Adel,,13:00,55.0,20.0,Online,Premium,Attended,Downtown
+1122,Laila Mahmoud,Zumba,Mona Zaki,,11:30,55.0,20.0,Cash,Premium,Attended,Westside
+1104,Bassem Ibrahim,CrossFit,Nourhan Fathy,,06:00 AM,60.0,27.0,Credit Card,VIP,Cancelled,Westside
+1025, Salma Ibrahim  ,Zumba,Nourhan Fathy,2024-04-30,05:00 PM,55.0,15.0,Credit Card,Basic,Attended,Downtown
+1137,Karim Fouad,CrossFit,Unknown,2024-05-16,6:15PM,60.0,26.0,Debit Card,VIP,Attended,Westside
+1070,hana zaki,Zumba,Unknown,2024-03-27,01:45 PM,55.0,15.0,,VIP,Attended,Downtown
+1119,Salma Sabry,CrossFit,Karim Adel,,11:00AM,60.0,26.0,,VIP,Attended,Downtown
+1111,Tarek Hassan,Pilates,Karim Adel,2024-05-03,10:45,50.0,,Cash,,No-show,Uptown
+1102,Laila Zaki,Yoga,Rana Gaber,,14:45,60.0,15.0,Credit Card,Premium,Attended,Uptown
+1125,Khaled Zaki,Yoga,Rana Gaber,,04:45 PM,60.0,17.0,Debit Card,Basic,Cancelled,Westside
+1007,wael hassan,HIIT,Tarek Sabry,,13:00,40.0,22.0,Online,Premium,Attended,Downtown
+1093,Reem Adel,Zumba,Nourhan Fathy,,11:15 AM,55.0,20.0,Credit Card,,Attended,Westside
+1053,tarek mahmoud,HIIT,Unknown,2024-03-12,6:45PM,40.0,22.0,,Basic,Cancelled,Westside
+1016,Hana Younes,HIIT,Unknown,2024-06-07,20:15,40.0,21.0,Cash,,Attended,Downtown
+1068,Bassem Hassan,Spin,Rana Gaber,2024-04-01,11:15AM,45.0,25.0,Credit Card,VIP,Attended,Downtown
+1031, ahmed hassan  ,Zumba,Tarek Sabry,,01:45 PM,55.0,15.0,Cash,Basic,No-show,Westside
+1113,Khaled Ibrahim,CrossFit,Tarek Sabry,2024-05-27,06:15 PM,60.0,30.0,Cash,,Attended,Uptown
+1003,Laila Ali,CrossFit,Unknown,2024-06-18,18:30,60.0,24.0,Cash,Basic,No-show,Uptown
+1090,aya sabry,HIIT,Hassan Younes,2024-01-20,6:15AM,40.0,27.0,Cash,Premium,No-show,Westside
+1044,mariam fathy,CrossFit,Unknown,2024-06-09,08:00 PM,60.0,26.0,,Basic,Cancelled,Uptown
+1047,Yasmin Fathy,Zumba,Mona Zaki,2024-04-16,7:45PM,55.0,16.0,Online,Basic,Cancelled,Uptown
+1101, Amr Saleh  ,CrossFit,Nourhan Fathy,2024-01-28,14:15,60.0,25.0,,VIP,Attended,Uptown
+1082,Omar Sabek,CrossFit,Hassan Younes,,08:15,60.0,30.0,Credit Card,Premium,Attended,Uptown
+1134,mona zaki,Pilates,Karim Adel,2024-04-05,15:30,50.0,20.0,Credit Card,Premium,Cancelled,Uptown
+1121,youssef ali,CrossFit,Rana Gaber,,05:15 PM,600.0,24.0,Credit Card,Basic,Attended,Downtown
+1120,Hana Ali,Spin,Karim Adel,2024-01-12,16:45,45.0,20.0,Cash,,No-show,Downtown
+1103,Wael Ibrahim,Yoga,Unknown,,20:00,60.0,17.0,Online,Basic,Attended,Westside
+1011, Dina Hassan  ,Pilates,Mona Zaki,,08:45 PM,50.0,23.0,,,Attended,Downtown
+1026,Aya Mahmoud,CrossFit,Hassan Younes,,07:00 AM,60.0,24.0,Debit Card,,Cancelled,Downtown
+1014,Salma Mahmoud,Pilates,Nourhan Fathy,2024-01-28,10:30AM,50.0,,Online,Premium,Cancelled,Westside
+1129,Tarek Mahmoud,HIIT,Karim Adel,2024-05-08,8:15AM,40.0,22.0,Debit Card,Basic,No-show,Westside
+1050,Khaled Kamal,CrossFit,Mona Zaki,2024-04-27,06:45 AM,60.0,26.0,Credit Card,,Cancelled,Uptown
+1037,Aya Saleh,Pilates,Nourhan Fathy,2024-03-20,14:45,50.0,18.0,Credit Card,,Attended,Westside
+1052,Tarek Fathy,CrossFit,Karim Adel,2024-05-22,3:30PM,60.0,25.0,Debit Card,VIP,Attended,Westside
+1079,Heba Adel,HIIT,Mona Zaki,,06:00 AM,40.0,22.0,,VIP,Cancelled,Downtown
+1099,Sherif Rashad,CrossFit,Nourhan Fathy,,05:45 PM,60.0,24.0,Online,Premium,Attended,Westside
+1115,Adham Ali,Zumba,Unknown,2024-04-01,13:15,55.0,,Debit Card,,No-show,Westside
+1087,mostafa fathy,HIIT,Tarek Sabry,,10:15,40.0,24.0,Cash,,Cancelled,Uptown
+1041,heba saleh,Yoga,Tarek Sabry,,20:00,60.0,17.0,Credit Card,VIP,No-show,Uptown
+1086,Hassan Ali,Spin,Mona Zaki,2024-01-23,14:00,45.0,19.0,Cash,Basic,Attended,Uptown
+1035,Mostafa Gaber,Pilates,Unknown,2024-03-12,3:45PM,50.0,20.0,,Basic,No-show,Uptown
+1015, Salma Saleh  ,CrossFit,Karim Adel,,14:00,60.0,26.0,Cash,Basic,Attended,Uptown
+1049,Ahmed Hassan,Pilates,Tarek Sabry,2024-02-03,11:15AM,50.0,17.0,,Premium,No-show,Downtown
+1058,Nourhan Fouad,Yoga,Karim Adel,2024-02-20,3:15PM,60.0,16.0,Cash,,No-show,Westside
+1057,Laila Younes,Spin,Karim Adel,2024-01-28,12:45PM,45.0,21.0,Debit Card,VIP,Cancelled,Uptown
+1126,aya younes,Spin,Karim Adel,2024-03-02,09:00 AM,45.0,20.0,,Basic,No-show,Westside
+1135,tarek nabil,Pilates,Karim Adel,,10:45,50.0,18.0,Cash,VIP,No-show,Uptown
+1065,Reem Younes,Pilates,Karim Adel,2024-01-24,07:45 PM,50.0,19.0,Debit Card,Basic,No-show,Westside
+1117,Heba Mahmoud,Yoga,Unknown,2024-03-01,6:30PM,60.0,15.0,,Premium,Cancelled,Downtown
+1075,Nourhan Saleh,Spin,Hassan Younes,,14:00,45.0,20.0,Cash,VIP,Attended,Downtown
+1073,Aya Sabek,Spin,Nourhan Fathy,2024-02-21,08:00 AM,45.0,20.0,,Basic,Attended,Westside
+1081, Youssef Zaki  ,Spin,Unknown,,3:30PM,45.0,18.0,,,Cancelled,Westside
+1029,Mostafa Adel,Zumba,Unknown,,04:45 PM,55.0,,Credit Card,Basic,No-show,Downtown
+1008, Amr Nabil  ,HIIT,Rana Gaber,2024-05-18,05:30 PM,40.0,20.0,Online,,Cancelled,Uptown
+1004,Dina Fouad,Zumba,Nourhan Fathy,2024-06-12,16:30,55.0,20.0,Credit Card,VIP,No-show,Uptown
+1127,Bassem Mahmoud,Spin,Hassan Younes,,06:45 PM,45.0,20.0,Credit Card,,Cancelled,Westside
+1038,Rana Fathy,HIIT,Unknown,,06:45 PM,40.0,27.0,,VIP,Attended,Downtown
+1043,Ahmed Adel,Zumba,Tarek Sabry,,3:30PM,55.0,16.0,Credit Card,,No-show,Downtown
+1107,Salma Adel,Spin,Karim Adel,,03:15 PM,45.0,20.0,Cash,VIP,Attended,Uptown
+1091, Khaled Kamal  ,CrossFit,Nourhan Fathy,,10:00AM,60.0,25.0,Credit Card,Basic,No-show,Uptown
+1055,tarek younes,Yoga,Rana Gaber,,4:45PM,60.0,16.0,Online,Basic,Attended,Uptown
+1106,Ziad Ibrahim,Spin,Tarek Sabry,,19:45,45.0,19.0,Debit Card,,Attended,Downtown
+1139,wael fathy,CrossFit,Rana Gaber,,7:30AM,60.0,25.0,Debit Card,Basic,No-show,Uptown
+1110,mariam adel,Yoga,Rana Gaber,,8:00AM,60.0,20.0,Debit Card,VIP,Attended,Uptown
+1032,Adham Adel,Zumba,Unknown,,01:45 PM,55.0,,Debit Card,VIP,Cancelled,Westside
+1130, Mostafa Nabil  ,HIIT,Karim Adel,2024-05-19,08:00 AM,40.0,22.0,Cash,VIP,Cancelled,Westside
+1064,Heba Gaber,HIIT,Unknown,,14:45,40.0,22.0,Cash,Premium,Attended,Uptown
+1046,sara rashad,Zumba,Unknown,2024-06-05,4:00PM,55.0,15.0,,VIP,Cancelled,Uptown
+1105,hassan adel,HIIT,Rana Gaber,2024-01-19,10:15 AM,40.0,24.0,Cash,,No-show,Uptown
+1030,Farida Mahmoud,Pilates,Mona Zaki,2024-05-17,9:15AM,50.0,16.0,Online,VIP,Attended,Westside
+1114,Yasmin Ibrahim,HIIT,Tarek Sabry,2024-06-21,11:00,40.0,22.0,Credit Card,Premium,No-show,Westside
+1132,salma adel,Zumba,Karim Adel,2024-01-20,08:00,55.0,14.0,Cash,,No-show,Uptown
+1061,Laila Rashad,Spin,Unknown,,10:30AM,45.0,19.0,Cash,VIP,Attended,Westside
+1019,Nourhan Nabil,HIIT,Hassan Younes,,4:15PM,40.0,22.0,Online,,Cancelled,Westside
+1084, Tarek Fouad  ,Zumba,Unknown,2024-03-14,03:45 PM,55.0,15.0,Online,Premium,No-show,Downtown
+1118,Reem Mahmoud,CrossFit,Unknown,,08:00 PM,60.0,27.0,Cash,Premium,Attended,Downtown
+1067,Rana Adel,CrossFit,Tarek Sabry,,12:00PM,60.0,23.0,Cash,,Attended,Westside
+1039, Aya Adel  ,Pilates,Tarek Sabry,,09:45,50.0,23.0,,,No-show,Westside
+1098, Hana Sabek  ,HIIT,Nourhan Fathy,2024-04-29,06:45 PM,40.0,22.0,Online,VIP,No-show,Downtown
+1062,Sherif Ibrahim,CrossFit,Tarek Sabry,,14:30,60.0,23.0,,Premium,Attended,Uptown
+1024,khaled zaki,CrossFit,Hassan Younes,,8:15PM,60.0,,Credit Card,,Cancelled,Westside
+1001,ahmed hassan,CrossFit,Karim Adel,2031-03-11,9:15AM,60.0,27.0,,Basic,Cancelled,Uptown
+1109,Sherif Sabek,Zumba,Nourhan Fathy,,9:30AM,55.0,16.0,,,Attended,Uptown
+1128,Ahmed Adel,CrossFit,Karim Adel,2024-05-10,06:00,60.0,,,VIP,No-show,Downtown
+1089,Aya Mahmoud,Spin,Nourhan Fathy,,11:15,45.0,20.0,,Premium,No-show,Westside
+1123,Yasmin Zaki,Yoga,Tarek Sabry,,11:15,60.0,15.0,Credit Card,Premium,Cancelled,Westside
+1077,Hassan Gaber,Zumba,Mona Zaki,2024-01-19,08:45 AM,55.0,16.0,,Premium,No-show,Westside
+1078,Salma Gaber,Yoga,Mona Zaki,2024-03-04,07:00 AM,60.0,20.0,Debit Card,Premium,Attended,Downtown
+1116,Mariam Gaber,Pilates,Karim Adel,,2:00PM,50.0,18.0,Online,VIP,Cancelled,Westside
+1034,Bassem Kamal,HIIT,Mona Zaki,2024-04-22,1:30PM,40.0,20.0,Online,,No-show,Downtown
+1124,Mostafa Zaki,Pilates,Karim Adel,2024-01-29,1:00PM,0.0,,Online,VIP,Attended,Uptown
+1096,Rana Fathy,HIIT,Rana Gaber,2024-04-09,10:15 AM,40.0,20.0,Credit Card,,Attended,Uptown
+1094,Heba Adel,Zumba,Hassan Younes,2024-05-18,18:00,55.0,15.0,Online,Premium,Attended,Westside
+1012,Fady Saleh,Yoga,Karim Adel,2024-01-18,04:15 PM,60.0,15.0,Cash,Basic,Cancelled,Downtown
+1076,Laila Saleh,HIIT,Karim Adel,2024-05-31,8:30AM,40.0,22.0,Credit Card,Basic,Attended,Westside
+1045,khaled kamal,Zumba,Unknown,2024-03-27,13:00,55.0,15.0,Cash,,Attended,Westside
+1002,Amr Rashad,CrossFit,Karim Adel,2024-03-12,09:30,60.0,25.0,Debit Card,Basic,No-show,Westside
+1092,tarek zaki,Zumba,Rana Gaber,,12:00PM,55.0,13.0,,Premium,Cancelled,Westside
+1054,Bassem Nabil,Yoga,Tarek Sabry,,13:30,60.0,17.0,Online,VIP,Attended,Westside
+1097,Sherif Nabil,CrossFit,Karim Adel,2024-05-02,07:30 PM,60.0,25.0,Cash,Premium,Cancelled,Downtown
+1013,Sara Gaber,Yoga,Tarek Sabry,2024-06-08,7:15AM,60.0,13.0,Cash,VIP,Attended,Downtown
+1006,Hana Fouad,CrossFit,Nourhan Fathy,,07:30 AM,60.0,25.0,,Basic,Cancelled,Westside
+1136,tarek sabek,CrossFit,Tarek Sabry,,11:30 AM,60.0,26.0,Cash,Basic,No-show,Westside
+1051,Ahmed Mahmoud,Zumba,Mona Zaki,2024-06-16,12:45,55.0,20.0,Online,,No-show,Uptown
+1027,Tarek Ibrahim,CrossFit,Karim Adel,,06:45 AM,60.0,30.0,Debit Card,VIP,Cancelled,Westside
+1023,Heba Younes,HIIT,Unknown,2024-01-16,07:45 PM,40.0,22.0,Credit Card,,No-show,Downtown
+1020,Laila Kamal,CrossFit,Tarek Sabry,,7:15AM,60.0,25.0,Cash,Premium,Attended,Downtown
+1100, Karim Ibrahim  ,CrossFit,Mona Zaki,2024-06-30,6:15AM,600.0,,Online,Basic,Cancelled,Westside
+1042,karim gaber,Pilates,Karim Adel,,1:30PM,50.0,23.0,,VIP,Cancelled,Westside
+1112,Ahmed Saleh,CrossFit,Unknown,2024-03-03,02:15 PM,60.0,30.0,Debit Card,,Attended,Westside
+1022,Heba Fouad,Zumba,Nourhan Fathy,,6:45PM,55.0,15.0,Online,,Attended,Westside
+1033,Mostafa Kamal,HIIT,Unknown,2024-01-09,10:30AM,40.0,22.0,,Basic,Cancelled,Downtown
+1074,Karim Sabek,Pilates,Unknown,,02:30 PM,50.0,17.0,,Premium,Cancelled,Downtown
+1018, Tarek Rashad  ,Zumba,Unknown,2024-04-21,12:15 PM,55.0,,Debit Card,Basic,Cancelled,Westside
+1138,Ziad Kamal,Zumba,Nourhan Fathy,,06:00,55.0,,Cash,Basic,Cancelled,Uptown
+1063,Youssef Saleh,Pilates,Mona Zaki,2024-06-26,17:45,50.0,23.0,Online,Premium,No-show,Westside
+1028,Reem Ibrahim,Pilates,Hassan Younes,,9:45AM,50.0,18.0,Debit Card,VIP,Attended,Uptown
+1048,Laila Nabil,Zumba,Nourhan Fathy,2024-06-13,06:30,55.0,13.0,Cash,Basic,Attended,Westside
+1080, Salma Mahmoud  ,HIIT,Hassan Younes,2024-02-02,12:30 PM,40.0,27.0,,Premium,Attended,Westside
+1040, Nourhan Ibrahim  ,CrossFit,Karim Adel,,11:45AM,60.0,25.0,Online,,No-show,Westside
+1140,Karim Saleh,Spin,Nourhan Fathy,,17:30,45.0,25.0,Credit Card,,Attended,Westside
+1021,Sara Mahmoud,CrossFit,Hassan Younes,2024-04-18,08:45,60.0,27.0,Cash,Basic,No-show,Downtown
+1131,laila ali,Spin,Rana Gaber,,05:30 PM,45.0,21.0,Credit Card,Basic,Cancelled,Downtown
+1108,Dina Rashad,Pilates,Mona Zaki,,03:15 PM,50.0,18.0,Online,,No-show,Downtown
+1060,Rana Fathy,Zumba,Karim Adel,,7:30AM,55.0,16.0,,Premium,Attended,Downtown
+1056,Aya Adel,HIIT,Unknown,,7:45AM,40.0,23.0,Debit Card,Basic,No-show,Downtown
+1069,Omar Kamal,Zumba,Tarek Sabry,2024-02-21,18:15,55.0,16.0,Online,,Attended,Westside
+1036,Mariam Zaki,Yoga,Karim Adel,2024-05-11,04:45 PM,60.0,20.0,Cash,,Cancelled,Westside

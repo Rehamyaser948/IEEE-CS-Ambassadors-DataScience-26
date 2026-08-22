@@ -1,0 +1,147 @@
+Booking_ID,Member_Name,Class_Type,Instructor,Booking_Date,Class_Time,Duration_Minutes,Price,Payment_Method,Membership_Type,Attendance_Status,Studio_Location
+1088,Nourhan Sabek,Pilates,Nourhan Fathy,2024-03-23,06:30 AM,50 min,18,UNKNOWN,VIP,No-show,Uptown
+1009, Laila Adel  ,SPIN,,12/03/2024,9:15AM,45,19,UNKNOWN, Premium,ATTENDED,UPTOWN
+1059,khaled fouad,Spinning,Mona Zaki,2024-05-31,11:00 AM,45,18,UNKNOWN,Basic,Attended,Uptown
+1085, Karim Ali  ,Pilates,Karim Adel,2024-06-20,16:15,50,$23.00,Debit Card,vip,cancelled ,UPTOWN
+1095,wael saleh,CROSSFIT,Tarek Sabry,09/06/2024,14:45,60,25,Debit Card,vip,cancelled ,UPTOWN
+1083,Ziad Rashad, Pilates,Nourhan Fathy,18/06/2024,02:45 PM,50 min,18,UNKNOWN,vip,Cancelled,Uptown
+1071, Omar Sabry  ,zumba ,Rana Gaber,06/06/2024,10:00,55,16,Debit Card,vip,Cancelled, Westside
+1133,Mona Rashad,YOGA,Mona Zaki,2031-02-07,05:15 PM,60,14,,Basic,cancelled ,Uptown
+1072, Tarek Sabry  ,zumba ,Tarek Sabry,2024-04-23,3:15PM,55 min,14,Debit Card,vip,cancelled ,Uptown
+1010,mona gaber,Pilates,Nourhan Fathy,05/02/2024,08:30 AM,50,18,credit card,,ATTENDED, Westside
+1017,Tarek Kamal,ZUMBA,Tarek Sabry,2024-02-28,06:15 AM,55,15,Online,basic,ATTENDED,Uptown
+1005,Salma Younes,HIIT,Hassan Younes,2031-05-29,11:15,40,27,UNKNOWN,basic,ATTENDED,Downtown
+1066,aya fathy,Zumba,Karim Adel,29/06/2024,13:00,55.0,20,Online, Premium,ATTENDED,downtown 
+1122,Laila Mahmoud,Zumba,Mona Zaki,27/01/2024,11:30,55,$20.00,CASH,Premium,Attended,Westside
+1104,Bassem Ibrahim,CROSSFIT,Nourhan Fathy,08/05/2024,06:00 AM,60,27,credit card,vip,Cancelled, Westside
+1025, Salma Ibrahim  ,zumba ,Nourhan Fathy,2024-04-30,05:00 PM,55 min,15,credit card,Basic,ATTENDED,Downtown
+1137,Karim Fouad,crossfit,,2024-05-16,6:15PM,60,26,Debit Card,vip,ATTENDED, Westside
+1070,hana zaki,Zumba,Unknown,2024-03-27,01:45 PM,55,15,,VIP,ATTENDED,Downtown
+1119,Salma Sabry,CROSSFIT,Karim Adel,26/04/2024,11:00AM,60 min,$26.00,UNKNOWN,vip,ATTENDED,Downtown
+1111,Tarek Hassan,PILATES,Karim Adel,2024-05-03,10:45,50.0,,CASH,,No-show,Uptown
+1102,Laila Zaki,Yoga ,Rana Gaber,07/04/2024,14:45,60,15,Credit Card,Premium,Attended,UPTOWN
+1125,Khaled Zaki,yoga,Rana Gaber,09/05/2024,04:45 PM,60,17,Debit Card,basic,cancelled ,Westside
+1007,wael hassan,HIIT,Tarek Sabry,02/06/2024,13:00,40 min,22,Online, Premium,Attended,downtown 
+1093,Reem Adel,Zumba,Nourhan Fathy,04/03/2024,11:15 AM,55,20,credit card,,ATTENDED,westside
+1053,tarek mahmoud,H.I.I.T,Unknown,2024-03-12,6:45PM,40,22,,Basic,Cancelled,westside
+1016,Hana Younes,H.I.I.T,N/A,2024-06-07,20:15,40,$21.00,CASH,,Attended,downtown 
+1068,Bassem Hassan,Spinning,Rana Gaber,2024-04-01,11:15AM,45 min,25,credit card,vip,attended,Downtown
+1031, ahmed hassan  ,Zumba,Tarek Sabry,26/05/2024,01:45 PM,55,$15.00,CASH,Basic,No-show, Westside
+1113,Khaled Ibrahim,CROSSFIT,Tarek Sabry,2024-05-27,06:15 PM,60,30,Cash ,unknown,Attended,Uptown
+1003,Laila Ali,CROSSFIT,Unknown,2024-06-18,18:30,60,$24.00,Cash ,basic,no-show,Uptown
+1090,aya sabry,Hiit,Hassan Younes,2024-01-20,6:15AM,40.0,27,CASH,Premium,No-show, Westside
+1044,mariam fathy,crossfit,N/A,2024-06-09,08:00 PM,60,26,UNKNOWN,Basic,Cancelled,Uptown
+1047,Yasmin Fathy,zumba ,Mona Zaki,2024-04-16,7:45PM,55.0,16,Online,Basic,cancelled ,Uptown
+1101, Amr Saleh  ,Cross Fit,Nourhan Fathy,2024-01-28,14:15,60,25,,VIP,ATTENDED,Uptown
+1082,Omar Sabek,Cross Fit,Hassan Younes,13/02/2024,08:15,60 min,30,credit card, Premium,Attended,UPTOWN
+1134,mona zaki,pilates,Karim Adel,2024-04-05,15:30,50,-20,credit card, Premium,cancelled ,UPTOWN
+1121,youssef ali,CROSSFIT,Rana Gaber,11/04/2024,05:15 PM,600,24,credit card,basic,Attended,downtown 
+1120,Hana Ali,SPIN,Karim Adel,2024-01-12,16:45,45 min,20,CASH,unknown,no-show,Downtown
+1103,Wael Ibrahim,yoga,Unknown,24/06/2024,20:00,60.0,17,online,Basic,attended,Westside
+1011, Dina Hassan  , Pilates,Mona Zaki,09/04/2024,08:45 PM,50.0,23,,unknown,attended,downtown 
+1026,Aya Mahmoud,CrossFit,Hassan Younes,11/02/2024,07:00 AM,60 min,24,Debit Card,,cancelled ,downtown 
+1014,Salma Mahmoud, Pilates,Nourhan Fathy,2024-01-28,10:30AM,50.0,,online, Premium,cancelled ,westside
+1129,Tarek Mahmoud,H.I.I.T,Karim Adel,2024-05-08,8:15AM,40 min,22,Debit Card,basic,no-show, Westside
+1050,Khaled Kamal,CrossFit,Mona Zaki,2024-04-27,06:45 AM,60 min,26,credit card,unknown,cancelled ,UPTOWN
+1037,Aya Saleh,pilates,Nourhan Fathy,2024-03-20,14:45,50,$18.00,credit card,unknown,Attended,westside
+1052,Tarek Fathy,CROSSFIT,Karim Adel,2024-05-22,3:30PM,60,25,Debit Card,vip,ATTENDED,westside
+1079,Heba Adel,HIIT,Mona Zaki,25/02/2024,06:00 AM,40,22,UNKNOWN,VIP,Cancelled,Downtown
+1099,Sherif Rashad,CROSSFIT,Nourhan Fathy,06/03/2024,05:45 PM,60,24,online,Premium,attended,westside
+1115,Adham Ali,Zumba,,2024-04-01,13:15,55.0,,Debit Card,unknown,no-show,westside
+1087,mostafa fathy,hiit,Tarek Sabry,09/05/2024,10:15,40 min,24,CASH,unknown,cancelled ,Uptown
+1041,heba saleh,Yoga ,Tarek Sabry,26/06/2024,20:00,60,$17.00,Credit Card,VIP,No-show,Uptown
+1102,Laila Zaki,Yoga ,Rana Gaber,07/04/2024,14:45,60,15,Credit Card,Premium,Attended,UPTOWN
+1086,Hassan Ali,SPIN,Mona Zaki,2024-01-23,14:00,45,19,CASH,Basic,ATTENDED,UPTOWN
+1035,Mostafa Gaber,PILATES,N/A,2024-03-12,3:45PM,50,20,UNKNOWN,basic,no-show,Uptown
+1015, Salma Saleh  ,crossfit,Karim Adel,23/04/2024,14:00,60,$26.00,CASH,Basic,ATTENDED,Uptown
+1049,Ahmed Hassan,pilates,Tarek Sabry,2024-02-03,11:15AM,50,$17.00,,Premium,No-show,Downtown
+1058,Nourhan Fouad,Yoga ,Karim Adel,2024-02-20,3:15PM,60,$16.00,CASH,unknown,no-show, Westside
+1057,Laila Younes,spin,Karim Adel,2024-01-28,12:45PM,45,21,Debit Card,VIP,cancelled ,Uptown
+1126,aya younes,spin,Karim Adel,2024-03-02,09:00 AM,45,$20.00,UNKNOWN,Basic,No-show,westside
+1135,tarek nabil,PILATES,Karim Adel,17/02/2024,10:45,50 min,18,Cash ,VIP,no-show,UPTOWN
+1065,Reem Younes, Pilates,Karim Adel,2024-01-24,07:45 PM,50.0,$19.00,Debit Card,Basic,no-show,Westside
+1117,Heba Mahmoud,yoga,,2024-03-01,6:30PM,60,15,,Premium,Cancelled,downtown 
+1075,Nourhan Saleh,Spinning,Hassan Younes,03/02/2024,14:00,45,20,CASH,VIP,attended,downtown 
+1073,Aya Sabek,Spinning,Nourhan Fathy,2024-02-21,08:00 AM,45,20,UNKNOWN,basic,ATTENDED,westside
+1081, Youssef Zaki  ,Spinning,Unknown,06/06/2024,3:30PM,45,18,,unknown,cancelled ,Westside
+1029,Mostafa Adel,Zumba,,25/06/2024,04:45 PM,55,,Credit Card,basic,No-show,downtown 
+1008, Amr Nabil  ,HIIT,Rana Gaber,2024-05-18,05:30 PM,40 min,20,online,unknown,Cancelled,UPTOWN
+1004,Dina Fouad,Zumba,Nourhan Fathy,2024-06-12,16:30,55,$20.00,Credit Card,vip,no-show,Uptown
+1127,Bassem Mahmoud,Spin,Hassan Younes,08/01/2024,06:45 PM,45 min,$20.00,credit card,,cancelled ,Westside
+1038,Rana Fathy,H.I.I.T,N/A,18/01/2024,06:45 PM,40,27,,VIP,ATTENDED,Downtown
+1043,Ahmed Adel,Zumba,Tarek Sabry,07/04/2024,3:30PM,55,$16.00,Credit Card,,No-show,Downtown
+1107,Salma Adel,Spinning,Karim Adel,09/06/2024,03:15 PM,45,20,CASH,VIP,Attended,UPTOWN
+1091, Khaled Kamal  ,CrossFit,Nourhan Fathy,06/01/2024,10:00AM,60,25,credit card,Basic,no-show,Uptown
+1055,tarek younes,Yoga,Rana Gaber,29/01/2024,4:45PM,60 min,16,Online,Basic,attended,UPTOWN
+1106,Ziad Ibrahim,spin,Tarek Sabry,01/06/2024,19:45,45,19,Debit Card,,ATTENDED,Downtown
+1139,wael fathy,Cross Fit,Rana Gaber,29/01/2024,7:30AM,60,25,Debit Card,basic,No-show,Uptown
+1110,mariam adel,Yoga,Rana Gaber,17/06/2024,8:00AM,60,20,Debit Card,vip,ATTENDED,UPTOWN
+1032,Adham Adel,Zumba,N/A,13/05/2024,01:45 PM,55,,Debit Card,VIP,Cancelled,Westside
+1130, Mostafa Nabil  ,HIIT,Karim Adel,2024-05-19,08:00 AM,40,22,Cash ,vip,cancelled , Westside
+1064,Heba Gaber,HIIT,N/A,13/03/2024,14:45,40,$22.00,Cash ,Premium,ATTENDED,Uptown
+1046,sara rashad,Zumba,Unknown,2024-06-05,4:00PM,55,15,UNKNOWN,VIP,cancelled ,UPTOWN
+1105,hassan adel,HIIT,Rana Gaber,2024-01-19,10:15 AM,40,24,CASH,,No-show,Uptown
+1126,aya younes,spin,Karim Adel,2024-03-02,09:00 AM,45,$20.00,UNKNOWN,Basic,No-show,westside
+1030,Farida Mahmoud,pilates,Mona Zaki,2024-05-17,9:15AM,50,16,Online,VIP,Attended, Westside
+1114,Yasmin Ibrahim,hiit,Tarek Sabry,2024-06-21,11:00,40 min,22,credit card,Premium,No-show,westside
+1095,wael saleh,CROSSFIT,Tarek Sabry,09/06/2024,14:45,60,25,Debit Card,vip,cancelled ,UPTOWN
+1132,salma adel,Zumba,Karim Adel,2024-01-20,08:00,55,14,CASH,unknown,no-show,Uptown
+1061,Laila Rashad,spin,,25/01/2024,10:30AM,45,19,CASH,vip,Attended,Westside
+1019,Nourhan Nabil,HIIT,Hassan Younes,17/04/2024,4:15PM,40,22,Online,,Cancelled, Westside
+1084, Tarek Fouad  ,ZUMBA,Unknown,2024-03-14,03:45 PM,55,15,online,Premium,No-show,Downtown
+1118,Reem Mahmoud,Cross Fit,,04/02/2024,08:00 PM,60,$27.00,CASH,Premium,attended,downtown 
+1067,Rana Adel,CrossFit,Tarek Sabry,06/02/2024,12:00PM,60,23,Cash ,,attended,westside
+1039, Aya Adel  ,pilates,Tarek Sabry,26/05/2024,09:45,50,-23,UNKNOWN,,no-show,westside
+1098, Hana Sabek  ,hiit,Nourhan Fathy,2024-04-29,06:45 PM,40,22,online,vip,no-show,Downtown
+1062,Sherif Ibrahim,CROSSFIT,Tarek Sabry,14/06/2024,14:30,60 min,23,,Premium,attended,Uptown
+1024,khaled zaki,CrossFit,Hassan Younes,12/02/2024,8:15PM,60,,Credit Card,,Cancelled,Westside
+1001,ahmed hassan,CrossFit,Karim Adel,2031-03-11,9:15AM,60.0,27,,basic,Cancelled,UPTOWN
+1109,Sherif Sabek,Zumba,Nourhan Fathy,05/02/2024,9:30AM,55,16,,,Attended,UPTOWN
+1128,Ahmed Adel,crossfit,Karim Adel,2024-05-10,06:00,60,,UNKNOWN,vip,no-show,downtown 
+1089,Aya Mahmoud,Spinning,Nourhan Fathy,12/06/2024,11:15,45,20,UNKNOWN,Premium,no-show,westside
+1123,Yasmin Zaki,YOGA,Tarek Sabry,30/03/2024,11:15,60,15,credit card, Premium,Cancelled,Westside
+1077,Hassan Gaber,zumba ,Mona Zaki,2024-01-19,08:45 AM,55,$16.00,UNKNOWN, Premium,No-show,Westside
+1078,Salma Gaber,YOGA,Mona Zaki,2024-03-04,07:00 AM,60 min,-20,Debit Card, Premium,ATTENDED,downtown 
+1116,Mariam Gaber,Pilates,Karim Adel,24/05/2024,2:00PM,50 min,18,Online,vip,Cancelled, Westside
+1034,Bassem Kamal,HIIT,Mona Zaki,2024-04-22,1:30PM,40.0,20,Online,unknown,no-show,Downtown
+1124,Mostafa Zaki,PILATES,Karim Adel,2024-01-29,1:00PM,0,,online,vip,attended,UPTOWN
+1096,Rana Fathy,HIIT,Rana Gaber,2024-04-09,10:15 AM,40 min,$20.00,credit card,unknown,ATTENDED,Uptown
+1094,Heba Adel,ZUMBA,Hassan Younes,2024-05-18,18:00,55,15,Online, Premium,ATTENDED,westside
+1012,Fady Saleh,Yoga ,Karim Adel,2024-01-18,04:15 PM,60,15,Cash ,Basic,Cancelled,Downtown
+1076,Laila Saleh,H.I.I.T,Karim Adel,2024-05-31,8:30AM,40,22,Credit Card,basic,Attended,westside
+1045,khaled kamal,ZUMBA,,2024-03-27,13:00,55 min,15,Cash ,,ATTENDED, Westside
+1002,Amr Rashad,Cross Fit,Karim Adel,2024-03-12,09:30,60,25,Debit Card,basic,No-show, Westside
+1092,tarek zaki,ZUMBA,Rana Gaber,24/04/2024,12:00PM,55,13,,Premium,cancelled , Westside
+1054,Bassem Nabil,Yoga,Tarek Sabry,06/04/2024,13:30,60.0,17,Online,vip,ATTENDED,Westside
+1097,Sherif Nabil,CROSSFIT,Karim Adel,2024-05-02,07:30 PM,60,25,Cash , Premium,cancelled ,Downtown
+1013,Sara Gaber,YOGA,Tarek Sabry,2024-06-08,7:15AM,60,13,CASH,vip,Attended,downtown 
+1006,Hana Fouad,Cross Fit,Nourhan Fathy,13/06/2024,07:30 AM,60,25,UNKNOWN,Basic,cancelled ,westside
+1136,tarek sabek,crossfit,Tarek Sabry,19/05/2024,11:30 AM,60 min,26,CASH,Basic,No-show,Westside
+1051,Ahmed Mahmoud,Zumba,Mona Zaki,2024-06-16,12:45,55 min,20,online,unknown,no-show,UPTOWN
+1027,Tarek Ibrahim,CROSSFIT,Karim Adel,09/05/2024,06:45 AM,60,30,Debit Card,vip,cancelled , Westside
+1023,Heba Younes,H.I.I.T,N/A,2024-01-16,07:45 PM,40,22,Credit Card,,no-show,Downtown
+1020,Laila Kamal,CrossFit,Tarek Sabry,11/05/2024,7:15AM,60.0,25,Cash , Premium,attended,Downtown
+1100, Karim Ibrahim  ,CROSSFIT,Mona Zaki,2024-06-30,6:15AM,600,,online,Basic,Cancelled,westside
+1042,karim gaber,pilates,Karim Adel,12/06/2024,1:30PM,50,$23.00,,VIP,cancelled ,Westside
+1112,Ahmed Saleh,CROSSFIT,,2024-03-03,02:15 PM,60,30,Debit Card,unknown,attended, Westside
+1022,Heba Fouad,ZUMBA,Nourhan Fathy,04/03/2024,6:45PM,55.0,$15.00,Online,unknown,Attended,westside
+1033,Mostafa Kamal,H.I.I.T,,2024-01-09,10:30AM,40,22,UNKNOWN,basic,cancelled ,downtown 
+1074,Karim Sabek,Pilates,N/A,07/01/2024,02:30 PM,50,17,,Premium,Cancelled,Downtown
+1018, Tarek Rashad  ,zumba ,,2024-04-21,12:15 PM,55,,Debit Card,Basic,Cancelled, Westside
+1138,Ziad Kamal,Zumba,Nourhan Fathy,14/02/2024,06:00,55,,Cash ,Basic,Cancelled,UPTOWN
+1063,Youssef Saleh, Pilates,Mona Zaki,2024-06-26,17:45,50 min,$23.00,online, Premium,no-show,Westside
+1028,Reem Ibrahim, Pilates,Hassan Younes,12/03/2024,9:45AM,50,18,Debit Card,vip,Attended,UPTOWN
+1048,Laila Nabil,zumba ,Nourhan Fathy,2024-06-13,06:30,55 min,13,Cash ,basic,ATTENDED, Westside
+1080, Salma Mahmoud  ,Hiit,Hassan Younes,2024-02-02,12:30 PM,40 min,27,,Premium,attended,Westside
+1040, Nourhan Ibrahim  ,CROSSFIT,Karim Adel,30/04/2024,11:45AM,60 min,25,online,,No-show,westside
+1140,Karim Saleh,Spin,Nourhan Fathy,06/04/2024,17:30,45,25,Credit Card,,ATTENDED, Westside
+1021,Sara Mahmoud,CROSSFIT,Hassan Younes,2024-04-18,08:45,60,27,Cash ,basic,no-show,downtown 
+1131,laila ali,SPIN,Rana Gaber,29/02/2024,05:30 PM,45,21,credit card,basic,Cancelled,downtown 
+1108,Dina Rashad,pilates,Mona Zaki,15/03/2024,03:15 PM,50,18,Online,,No-show,Downtown
+1060,Rana Fathy,Zumba,Karim Adel,16/01/2024,7:30AM,55,$16.00,,Premium,Attended,downtown 
+1056,Aya Adel,H.I.I.T,,08/05/2024,7:45AM,40,23,Debit Card,Basic,no-show,Downtown
+1023,Heba Younes,H.I.I.T,N/A,2024-01-16,07:45 PM,40,22,Credit Card,,no-show,Downtown
+1120,Hana Ali,SPIN,Karim Adel,2024-01-12,16:45,45 min,20,CASH,unknown,no-show,Downtown
+1069,Omar Kamal,Zumba,Tarek Sabry,2024-02-21,18:15,55 min,16,Online,,ATTENDED,Westside
+1036,Mariam Zaki,Yoga ,Karim Adel,2024-05-11,04:45 PM,60 min,-20,Cash ,,Cancelled, Westside
+1130, Mostafa Nabil  ,HIIT,Karim Adel,2024-05-19,08:00 AM,40,22,Cash ,vip,cancelled , Westside
